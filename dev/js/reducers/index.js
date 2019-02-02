@@ -6,3 +6,5 @@ const allReducers = combineReducers({
     users: UserReducer
     //anotherusers: AnotherusersReducer
 });
+
+export default allReducers;

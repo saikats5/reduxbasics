@@ -10,4 +10,5 @@ http://localhost:3000/
 polyfill is to make code backward compatible
 
 Store --> all your applications states/data
-Reducers --> take in actions and update part of application state 
+Reducers --> take in actions and update part of application state
+Provider --> Makes store available to all containers/component
