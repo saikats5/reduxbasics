@@ -20,3 +20,4 @@ this.props.params -- artile: "sometext"
 Page2/sometext?date=today&filter=all //this.props.location.query  --  date/filter
 <Route path='Page2(/:article)' name="Page2" component={Page2}></Route> //optional
 
+Flux -- Components -> Actions -> Dispatcher -> Stores -> Components
